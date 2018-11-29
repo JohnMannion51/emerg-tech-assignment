@@ -1,20 +1,20 @@
-# G00340314 4th Year
-# emerg-tech-assignment
+# G00340314 4th Year emerg-tech-assignment
+My name is John Mannion and I'am a fourth year student in GMIT studying software development. As part of my emerging technologies module I was tasked with creating a set of jupyter notebooks that explain the some of the packages available in the Python programming language. 
 
 ## Assignment/Project Requirements
-### Assignment
+## Assignment
 To create a set of jupyter noyebooks explaining:
 1. NumPy.random() in the python language.
 2. The Iris dataset.
 3. The MNIST database.
-### Project
+## Project
 1. To create a python script that creates a neural network.
 2. A jupyter notebook explaining how the project works.
 
-## A pdf of the project is available [here](docs/project.pdf) 
+### A pdf of the project is available [here](docs/project.pdf) 
 
 ## System Requirements To Run Project/Jupyter Notebooks
-## The following are the requirements needed in order to run the project.
+## Requirements needed to run the project.
 1. Install Anaconda on your machine.
 2. Install Python 2.7 - 3.7 on your machine (Python 3.7 can be installed through anaconda installation). 
 2. A command line prompt such as cmder to run the script.
@@ -49,7 +49,7 @@ The user will be prompted to enter the number of tests they want to run. The scr
 
 Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks will open in a seperate browser window. You can create your own notebooks by clicking on the new tab and then choose Python 3. You acn then add code to the cells or if you want to add text change the cell type to markdown. Use shift and enter to run the cells. You can add new cells any time by clicking on the + button any move the cell using the up or down arrows. For more shortcuts click on the help button and choose keyboard shortcuts for a more detailed list to help you.
 
-# Helpful Resources
+## Helpful Resources
 [Python]("https://www.python.org/")
 [Anaconda]("https://www.anaconda.com/what-is-anaconda/")
 [Jupyter]("http://jupyter.org/")
@@ -57,5 +57,7 @@ Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks w
 [Visual Studio Code]("https://code.visualstudio.com/")
 [Google Chrome]("https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAuf7fBRD7ARIsACqb8w6DWj_c-dYt4S7FPNLN1hHWeR0Ll6YXkCH2NXyvGux9rvZkm8Q_678aAlEHEALw_wcB&gclsrc=aw.ds")
 
- 
-
+## Licence
+This project is licensed under the MIT License - see the [LICENSE.md](/LICENCE) file for details
+## Acknowledgments
+Thank you to Dr. Ian McCloughlin for the course work, assistance and tutorials on completing the project
