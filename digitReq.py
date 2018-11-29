@@ -70,11 +70,8 @@ print("\nModel  is", outcome/100,"% Accurate\n")
 print("\nModel has been created or loaded into memory")
 
 
-#model.predict(test_img[5:6])
-#plt.imshow(test_img[5].reshape(28, 28), cmap='gray'
-
 def testCases():
-    amm = int(input(" How many tests would you like to run ? "))
+    amm = int(input(" How many tests would you like to run  "))
     from random import randint
     for i in range(amm):
         print("Test Number : ", i+1,"\n")
@@ -113,10 +110,10 @@ print("Load an image on your system")
 opt=True
 while opt:
     print("============================")
-    print("""        1 to load image
-        2 to run test
-        3 to exit """)
-    opt= input(" What would you like to do ? ")
+    print("""        1 Load image
+        2 Run test
+        3 Exit """)
+    opt= input("Choose an option ")
     print("============================")
     #https://stackoverflow.com/questions/19964603/creating-a-menu-in-python
 
