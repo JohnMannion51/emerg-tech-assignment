@@ -50,12 +50,12 @@ The user will be prompted to enter the number of tests they want to run. The scr
 Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks will open in a seperate browser window. You can create your own notebooks by clicking on the new tab and then choose Python 3. You acn then add code to the cells or if you want to add text change the cell type to markdown. Use shift and enter to run the cells. You can add new cells any time by clicking on the + button any move the cell using the up or down arrows. For more shortcuts click on the help button and choose keyboard shortcuts for a more detailed list to help you.
 
 ## Helpful Resources
-[Python]("https://www.python.org/")
-[Anaconda]("https://www.anaconda.com/what-is-anaconda/")
-[Jupyter]("http://jupyter.org/")
-[Cmder]("http://cmder.net/")
-[Visual Studio Code]("https://code.visualstudio.com/")
-[Google Chrome]("https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAuf7fBRD7ARIsACqb8w6DWj_c-dYt4S7FPNLN1hHWeR0Ll6YXkCH2NXyvGux9rvZkm8Q_678aAlEHEALw_wcB&gclsrc=aw.ds")
+* [Python]("https://www.python.org/")
+* [Anaconda]("https://www.anaconda.com/what-is-anaconda/")
+* [Jupyter]("http://jupyter.org/")
+* [Cmder]("http://cmder.net/")
+* [Visual Studio Code]("https://code.visualstudio.com/")
+* [Google Chrome]("https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAuf7fBRD7ARIsACqb8w6DWj_c-dYt4S7FPNLN1hHWeR0Ll6YXkCH2NXyvGux9rvZkm8Q_678aAlEHEALw_wcB&gclsrc=aw.ds")
 
 ## Licence
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENCE) file for details
