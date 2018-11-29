@@ -63,6 +63,6 @@ Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks w
 * [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAuf7fBRD7ARIsACqb8w6DWj_c-dYt4S7FPNLN1hHWeR0Ll6YXkCH2NXyvGux9rvZkm8Q_678aAlEHEALw_wcB&gclsrc=aw.ds)
 
 ## Licence
-This project is licensed under the MIT License - see the [LICENSE](emerg-tech-assignment/LICENSE) file for details
+This project is licensed under the MIT License - see the LICENCE file for details
 ## Acknowledgments
 Thank you to Dr. Ian McCloughlin for the course work, assistance and tutorials on completing the project
