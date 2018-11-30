@@ -1,10 +1,10 @@
 # G00340314 4th Year emerg-tech-assignment
-My name is John Mannion and I'am a fourth year student in GMIT studying software development. As part of my emerging technologies module I was tasked with creating a set of jupyter notebooks that explain the some of the packages available in the Python programming language. 
+My name is John Mannion and I'am a fourth year student in GMIT studying software development. As part of my emerging technologies module I was tasked with creating a set of jupyter notebooks that explain some of the packages available in the Python programming language. 
 
 ## Assignment/Project Requirements
 ## Assignment
 To create a set of jupyter noyebooks explaining:
-1. NumPy.random() in the python language.
+1. NumPy.random().
 2. The Iris dataset.
 3. The MNIST database.
 ## Project
@@ -16,7 +16,7 @@ To create a set of jupyter noyebooks explaining:
 ## System Requirements To Run Project/Jupyter Notebooks
 ## Requirements needed to run the project.
 1. Install Anaconda on your machine.
-2. Install Python 2.7 - 3.7 on your machine (Python 3.7 can be installed through anaconda installation). 
+2. Install Python 2.7 - 3.7 on your machine (Python 3.7 can be installed through the anaconda installation process). 
 2. A command line prompt such as cmder to run the script.
 3. An IDE ( Visual Studio Code ) to view or edit the script.
 4. A web browser such as chrome.
@@ -28,7 +28,7 @@ To create a set of jupyter noyebooks explaining:
 4. If you downloaded the project then simply cd to the project location.
 5. Run the following command python ./digitReq.py
 
-While you are waiting for the script to compile open an application such as paint and using the brush tool to draw a digit ranging from 1 - 9. Save the file. Once the script has compiled which initially could take 15 minutes or more the user is prompted to choose an option. 
+While you are waiting for the script to compile open an application such as paint and use the brush tool to draw a digit ranging from 0 - 9. Save the file. Once the script has compiled which initially could take 15 minutes or more the user is prompted to choose an option. 
 1. Load an image
 2. To run test
 3. Exit the program
@@ -38,7 +38,8 @@ A window will open and you choose the image you previously created (using paint)
 
 If they choose option 2:
 The user will be prompted to enter the number of tests they want to run. The script will output a number of sample test cases taken at random and display the number and its predictions.
-
+ 
+Choose option 3 to exit the program.
 
 ## Instructions To Run Jupyter Notebooks
 1. Download the github repository or copy the link of the github repository.
@@ -47,7 +48,7 @@ The user will be prompted to enter the number of tests they want to run. The scr
 4. If you downloaded the project then simply cd to the project location.
 5. Run the command "jupyter notebook" to open in a browser.
 
-Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks will open in a seperate browser window. You can create your own notebooks by clicking on the new tab and then choose Python 3. You acn then add code to the cells or if you want to add text change the cell type to markdown. Use shift and enter to run the cells. You can add new cells any time by clicking on the + button any move the cell using the up or down arrows. For more shortcuts click on the help button and choose keyboard shortcuts for a more detailed list to help you.
+Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks will open in a seperate browser window. You can create your own notebooks by clicking on the new tab and then choose Python 3. You can then add code to the cells or if you want to add text change the cell type to markdown. Use shift and enter to run the cells. You can add new cells any time by clicking on the + button any move the cell using the up or down arrows. For more shortcuts click on the help button and choose keyboard shortcuts for a more detailed list to help you.
 
 ## Helpful Resources
 * [Python](https://www.python.org/)
@@ -65,4 +66,4 @@ Once the browser is open choose a notebook NumPy, Iris or MNIST. The notebooks w
 ## Licence
 This project is licensed under the MIT License - see the LICENCE file for details
 ## Acknowledgments
-Thank you to Dr. Ian McCloughlin for the course work, assistance and tutorials on completing the project
+Thank you to Dr. Ian McLoughlin for the course work, assistance and tutorials on completing the project
