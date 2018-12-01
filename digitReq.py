@@ -44,9 +44,6 @@ outputs = encoder.transform(train_lbl)
 
 print(train_lbl[0], outputs[0])
 
-#for i in range(10):
-   #print(i, encoder.transform([i]))
-# prints out the arrays
 
 if os.path.isfile('data/model.h5'): 
         model = kr.models.load_model('data/model.h5')
@@ -71,7 +68,7 @@ print("\nModel has been created or loaded into memory")
 
 
 def testCases():
-    amm = int(input(" How many tests would you like to run  "))
+    amm = int(input("How many tests would you like to run  "))
     from random import randint
     for i in range(amm):
         print("Test Number : ", i+1,"\n")
@@ -85,8 +82,8 @@ def testCases():
         # Get the maximum value from the machine predictions
         pred_result = test.argmax(axis=1)
 
-        print("program predicted : =>> ",  pred_result)
-        print(" number is : =>> ", test_lbl[x:x+1])
+        print("The program predicted : =>> ",  pred_result)
+        print("The number is : =>> ", test_lbl[x:x+1])
         print("===================")
 
 def loadImage():
@@ -110,7 +107,7 @@ print("Load an image on your system")
 opt=True
 while opt:
     print("============================")
-    print("""        1 Load image
+    print("""        1 Load an image
         2 Run test
         3 Exit """)
     opt= input("Choose an option ")
